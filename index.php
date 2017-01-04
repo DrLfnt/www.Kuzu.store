@@ -52,12 +52,12 @@ include("library/class_email_sender.php");
 		<!-- Preloader end here -->
 		<!-- About Icon start here -->
 		<div class="about-us"> 
-			<a href="#" class="fa fa-file-text-o tool-tip" data-toggle="modal" data-target=".bs-example-modal-lg" data-placement="right" title="About"></a>
+			<a href="#" class="fa fa-file-text-o tool-tip" data-toggle="modal" data-target=".bs-example-modal-lg" data-placement="right" title="Nosotros"></a>
 		</div>
 		<!-- About Icon end here -->
 		<!-- Contact Icon start here -->
 		<div class="contact-us"> 
-			<a href="#" class="fa fa-envelope-o tool-tip" data-toggle="modal" data-target=".bs-example-modal-lg2"  data-placement="left" title="Contact"></a>
+			<a href="#" class="fa fa-envelope-o tool-tip" data-toggle="modal" data-target=".bs-example-modal-lg2"  data-placement="left" title="Contacto"></a>
 		</div>
 		<!-- Contact Icon end here -->
 		<!-- Main container start here -->
@@ -121,7 +121,7 @@ include("library/class_email_sender.php");
 			<!-- Social icons end here -->
 			<!-- Footer start here -->
 			<footer class="fade-down">        
-				<p class="footer-text">&copy; Kuzu 2016</p>
+				<p class="footer-text">&copy; Kuzu 2017</p>
 			</footer>
 			<!-- Footer end here -->
 		</section>
